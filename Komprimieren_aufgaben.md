@@ -6,8 +6,8 @@ Nicht-binärer Baum: Jeder Knoten kann mehr als zwei Kinder haben.
 
 #### 2.
 B A N A N E
-1 2 2 2 2 1
 
+1 2 2 2 2 1
     6
    / \
   2   4
