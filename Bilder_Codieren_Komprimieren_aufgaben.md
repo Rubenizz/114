@@ -58,7 +58,7 @@ verechnet, aber grundsatz stimmt.
 - Größerer Speicherbedarf.
 - Hohe Nachbearbeitungsmöglichkeiten, da die Daten weitgehend unbearbeitet sind.
 - Geeignet für professionelle Fotografie und Nachbearbeitung.
-   ### JPG:
+  ### JPG:
 - Komprimiert, typischerweise verlustbehaftet.
 - Kleinerer Speicherbedarf.
 - Weniger flexible Nachbearbeitung, da viele Informationen bereits durch die Kompression verloren gehen.
