@@ -63,3 +63,18 @@ verechnet, aber grundsatz stimmt.
 - Kleinerer Speicherbedarf.
 - Weniger flexible Nachbearbeitung, da viele Informationen bereits durch die Kompression verloren gehen.
 - Geeignet für alltägliche Fotografie und schnelle Veröffentlichung.
+
+#### 10. Aufgabe
+- Format: MP4 ist am meisten empfohlen.
+- Bildrate: Bis zu 60 fps.
+- Farbauflösung: 4:2:0 ist Standard.
+- Videocodec: H.264 ist bevorzugt.
+- Audiocodec: AAC-LC, 48 kHz oder 96 kHz.
+- Bildauflösung: Maximal 8K (7680 x 4320).
+- Bitrate: Variiert je nach Auflösung und Framerate (z.B., 1080p bei 60 fps: 12 Mbps - 15 Mbps).
+
+Rechtliche Einschränkungen:
+- Keine Urheberrechtsverletzungen.
+- Keine unangemessenen Inhalte gemäß den YouTube-Richtlinien.
+- Einhaltung der YouTube-Community-Richtlinien und Nutzungsbedingungen.
+#### 11. Aufgabe
