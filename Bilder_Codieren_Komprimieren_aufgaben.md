@@ -1,16 +1,16 @@
 #### 1. Aufgabe
-    - Weiss
-    - Schwarz
-    - Orange
-    - ROT
-    - GRÜN
-    - BLAU
-    - GELB
-    - Türkis
-    - Violet
-    - Schwarz
-    - Weiss
-    - Grün
+   - Weiss
+   - Schwarz
+   - Orange
+   - ROT
+   - GRÜN
+   - BLAU
+   - GELB
+   - Türkis
+   - Violet
+   - Schwarz
+   - Weiss
+   - Grün
 
 #### 2. Aufgabe
    - Rot
