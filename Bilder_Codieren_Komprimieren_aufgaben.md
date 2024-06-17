@@ -78,3 +78,11 @@ Rechtliche Einschränkungen:
 - Keine unangemessenen Inhalte gemäß den YouTube-Richtlinien.
 - Einhaltung der YouTube-Community-Richtlinien und Nutzungsbedingungen.
 #### 11. Aufgabe
+Interlaced Mode:
+- Zeigt abwechselnd die geraden und ungeraden Zeilen jedes Bildes.
+- Verwendet für traditionelle Fernsehübertragungen.
+- Kann bei schnellen Bewegungen zu Flimmern und Kamm-Effekten führen.
+Progressive Mode:
+- Zeigt jede Zeile des Bildes in einer Sequenz.
+- Besser für schnelle Bewegungen und detaillierte Bilder.
+- Wird für moderne digitale Übertragungen und Displays bevorzugt.
