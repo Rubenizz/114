@@ -115,7 +115,7 @@ Weil die ALU im Mikroprozessor nur "digital" versteht.
 Modul 114
 ARJ/v1.1 Seite 4/7
  
-### b. Warum geht eine A/D-Wandlung immer mit einem Datenverlust einher?
+### b. 
 Je nach Samplingrate und Auflösung verliert man Informationen zwischen den 
 Samples/Messwerten. Würde man das digitalisierte Signal wieder in ein 
 analoges Signal zurückwandeln, erhält man einen treppenartigen Verlauf. Die 
