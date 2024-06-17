@@ -108,3 +108,22 @@ i50 = 50 Halbbilder pro Sekunde
 Codec: Komprimiert und dekomprimiert Audio- und Videodaten.
 
 Mediencontainer: Verpackt verschiedene komprimierte Datenströme (Video, Audio, Untertitel) in einer Datei und sorgt für deren Synchronisation und Organisation.
+
+#### 16. Aufgabe
+### a. 
+Weil die ALU im Mikroprozessor nur "digital" versteht.
+Modul 114
+ARJ/v1.1 Seite 4/7
+ 
+### b. Warum geht eine A/D-Wandlung immer mit einem Datenverlust einher?
+Je nach Samplingrate und Auflösung verliert man Informationen zwischen den 
+Samples/Messwerten. Würde man das digitalisierte Signal wieder in ein 
+analoges Signal zurückwandeln, erhält man einen treppenartigen Verlauf. Die 
+Werte zwischen den Stufen bleiben somit unbekannt.
+ 
+## c.
+Je höher die Samplingrate, deso näher kommt die digitale Abbildung dem 
+Original. Bei Musik wird z.B. wegen des menschlichen Hörbereichs von 20Hz 
+bis 20kHz die Samplingrate auf 44kHz festgelegt. Das fordert das sogenannte 
+Abtast-Theorem, das besagt, dass die Samplingfrequenz der doppelten 
+oberen Grenzfrequenz entsprechen muss
