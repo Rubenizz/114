@@ -87,3 +87,24 @@ Progressive Mode:
 - Zeigt jede Zeile des Bildes in einer Sequenz.
 - Besser für schnelle Bewegungen und detaillierte Bilder.
 - Wird für moderne digitale Übertragungen und Displays bevorzugt.
+
+#### 12. Aufgabe
+Artefakte sind unerwünschte visuelle Nebenprodukte in digitalem Video:
+- Kompressionsartefakte: Blockbildung oder Verlust von Details durch verlustbehaftete Kompression.
+- Interlace Artefakte: Kamm oder Flimmer Effekte durch Interlaced Video.
+- Banding: Streifenbildung in Farbverläufen.
+- Ghosting: Überlagerung von Bildsequenzen.
+- Aliasing: Gezackte Linien oder Kanten in Bildern.
+
+#### 13. Aufgabe
+1920 x 1080 x 3Byte = 6’220’800B
+i50 = 50 Halbbilder pro Sekunde
+6’220’800B x 25 = 155’520’000B oder 155.52MB/s bzw. 1.24416Gb/s
+
+#### 14. Aufgabe
+4700MB / 155.52MB/s = 30 Sekunden 
+
+#### 15. Aufgabe
+Codec: Komprimiert und dekomprimiert Audio- und Videodaten.
+
+Mediencontainer: Verpackt verschiedene komprimierte Datenströme (Video, Audio, Untertitel) in einer Datei und sorgt für deren Synchronisation und Organisation.
