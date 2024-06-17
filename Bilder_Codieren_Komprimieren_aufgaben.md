@@ -1,4 +1,4 @@
-1. Aufgabe
+#### 1. Aufgabe
     - Weiss
     - Schwarz
     - Orange
@@ -12,7 +12,7 @@
     - Weiss
     - Grün
 
-2. Aufgabe
+#### 2. Aufgabe
    - Rot
    - Grün
    - Blau
@@ -24,14 +24,14 @@
    - Weiss
    - Pink
 
-3. Aufgabe
+#### 3. Aufgabe
    640 * 480 * 24 = 7372800
    7372800 / 8 = 921600
 
-4. Aufgabe
+#### 4. Aufgabe
    png, da ich ein sauber erscheinendes Bild haben will und trotzdem den Hintergrund noch sehen will.
 
-5. Aufgabe
+#### 5. Aufgabe
 30^2 - (10x)^2 = 16x
 900 - 100x^2 = 16x
 30 - 10x = 16x
@@ -44,9 +44,9 @@ y = 11.5384615385 INCH = 11.5384615385 * 100 = 1153.84615385
 
 verechnet, aber grundsatz stimmt.
 
-6. Aufgabe
+#### 6. Aufgabe
 2000 / 600 * 2.54 = 8.46666666667 cm
 
-7. Aufgabe
+#### 7. Aufgabe
    1920 * 1080 * 3 = 6220800
 8. 
