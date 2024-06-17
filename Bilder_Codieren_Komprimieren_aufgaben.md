@@ -12,7 +12,7 @@
    - Weiss
    - Grün
 
-## 2. Aufgabe
+#### 2. Aufgabe
    - Rot
    - Grün
    - Blau
