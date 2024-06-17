@@ -82,6 +82,7 @@ Interlaced Mode:
 - Zeigt abwechselnd die geraden und ungeraden Zeilen jedes Bildes.
 - Verwendet für traditionelle Fernsehübertragungen.
 - Kann bei schnellen Bewegungen zu Flimmern und Kamm-Effekten führen.
+
 Progressive Mode:
 - Zeigt jede Zeile des Bildes in einer Sequenz.
 - Besser für schnelle Bewegungen und detaillierte Bilder.
