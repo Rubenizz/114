@@ -53,12 +53,12 @@ verechnet, aber grundsatz stimmt.
    Speicherbedarf pro Bild: 1920 × 1080 × 3 Bytes = 6220800 Bytes
    180 * 6,220,800 Byte = 1,119,744,000 Byte
 #### 9. Aufgabe
-      ### RAW:
+   ### RAW:
 - Unkomprimiert, enthält alle vom Sensor der Kamera aufgenommenen Daten.
 - Größerer Speicherbedarf.
 - Hohe Nachbearbeitungsmöglichkeiten, da die Daten weitgehend unbearbeitet sind.
 - Geeignet für professionelle Fotografie und Nachbearbeitung.
-  ### JPG:
+### JPG:
 - Komprimiert, typischerweise verlustbehaftet.
 - Kleinerer Speicherbedarf.
 - Weniger flexible Nachbearbeitung, da viele Informationen bereits durch die Kompression verloren gehen.
