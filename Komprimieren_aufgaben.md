@@ -1,6 +1,6 @@
 # Daten Komprimieren 
 
-## 1. Huffman-Algorithmus
+## 1. 
 
 Dateisysteme haben auch eine Baumstruktur.
 
@@ -21,7 +21,7 @@ n   a   2
       b   e
 ![image](https://github.com/Rubenizz/114/assets/112400838/42683104-1ea9-445e-9490-4e1326420ecc)
 
-## 3. RLC
+## 3.
 Mit 5 Bit kann man eine Linie von Pixeln im Bild darstellen. Es könnte 1 Bit oder kein Bit sein, da man einfach die Farbe angeben kann.
 
 10100Gelb 1011Gelb, 10Schwarz, 111Gelb
@@ -62,7 +62,7 @@ WSSWWSSW
 
 Es wird ein 'A' dargestellt.
 
-## 5. LZW-Verfahren
+## 5.
 
 ### a. 
 
