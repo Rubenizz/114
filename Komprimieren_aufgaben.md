@@ -31,7 +31,7 @@ Mit 5 Bit kann man eine Linie von Pixeln im Bild darstellen. Es könnte 1 Bit od
 1Blau
 
 ## 4. RLC:
-Sie erhalten diesen RL-Code: 010100011110010010010010010010010010010110010110010010010010010010010010001 
+RL-Code: 010100011110010010010010010010010010010110010110010010010010010010010010001 
 
 ```
 010 100 011 110 010 010 010 010 010 010 010 010 010 110 010 110 010 010 010 010 010 010 010 010 001
@@ -68,12 +68,14 @@ Es wird ein 'A' dargestellt.
 
 | Zeichenkette | Gefunden | Gespeichert | Eintrag | Nummer |
 | ------------ | -------- | ----------- | ------- | ------ |
-| ananas       | a        | a           | an      | 256    |
-| nanas        | n        | n           | na      | 257    |
-| anas         | a        | 256         | ana     | 258    |
-| as           | a        | a           | as      | -      |
+| banane       | b        | b           | ba      | 259    |
+| anane        | a        | a           | an      | 256    |
+| nane         | n        | 257         | na      | 257    |
+| ane          | a        | 256         | ane     | 260    |
+| ne           | n        | 257         | ne      | 261    |
+| e            | e        | e           | -       | -      |
 
-ANANAS = an256as
+BANANE = b259260e
 
 ### b. 
 
