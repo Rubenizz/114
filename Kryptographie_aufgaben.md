@@ -58,7 +58,7 @@ https://legacy.cryptool.org/de/cto/aes-animation
 
 ![image](https://github.com/Rubenizz/114/assets/112400838/aa11cec8-b7a0-4b71-bc7b-1c92ceec3fcc)
 
-## 3.
+## 20.
 
 1. Zertifikate und Vertrauenswürdige Zertifizierungsstellen
 Die häufigste Methode zur Verifizierung eines Public-Keys erfolgt über digitale Zertifikate, die von vertrauenswürdigen Zertifizierungsstellen ausgestellt werden. Diese CAs verifizieren die Identität der Person oder Organisation, bevor sie ein Zertifikat ausstellen.
@@ -75,3 +75,22 @@ Den Fingerprint des Public-Keys oder Zertifikats verifizieren. Ein Fingerprint i
 
 Fingerprint erhalten: Fordern Sie den Fingerprint des Public-Keys direkt von der Person an.
 Vergleich: Den erhaltenen Fingerprint mit dem Fingerprint des Public-Keys, den Sie verifizieren möchten vergleichen.
+
+## 21.
+
+Ein OpenPGP-Schlüssel besteht aus einem primären Schlüssel, Subkeys, User IDs, Selbstsignaturen und optionalen Attributen sowie Revocation Certificates. Er ist durch Merkmale wie die Key ID, den Fingerprint und das ASCII-armored Format zu erkennen. Der öffentliche Schlüssel kann frei verteilt werden, während der private Schlüssel sicher aufbewahrt werden muss.
+
+## 22.
+
+![image](https://github.com/Rubenizz/114/assets/112400838/5310920a-48e5-41b7-a40e-cc939c48043a)
+
+Man braucht eine Art Login, um diesen zu erstellen.
+
+## 23.
+
+![image](https://github.com/Rubenizz/114/assets/112400838/fb3ce9c9-f073-4cce-8096-b5e71726905a)
+
+Es hat Funktioniert
+
+## 24. 
+
