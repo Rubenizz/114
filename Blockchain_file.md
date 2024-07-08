@@ -15,7 +15,8 @@ Blockchain dient als öffentliches Ledger für alle Bitcoin-Transaktionen.
 Erweiterte Blockchain-Plattform (2015).
 Unterstützt programmierbare Smart Contracts und dezentrale Anwendungen (dApps).
 Smart Contracts sind selbstausführende Verträge, die auf der Blockchain gespeichert sind.
-Weitere Anwendungsbereiche der Blockchain-Technologie
+
+## Weitere Anwendungsbereiche der Blockchain-Technologie
 
 - Finanzwesen: Schnellere und sicherere Transaktionen, verbesserte Kreditvergabe.
 - Lieferkettenmanagement: Verfolgbarkeit und Transparenz von Produkten.
